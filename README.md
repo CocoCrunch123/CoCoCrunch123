@@ -25,6 +25,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=blue)](https://yourwebsite.com)  
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.gg/yourserver)  
 
+
+
+## 🏆 Github Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=dark&hide_border=true&stroke=ffffff&ring=ffcc00&fire=ffcc00&currStreakLabel=ffcc00&card_width=600" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 🐍 Contribution Graph  
