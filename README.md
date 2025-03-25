@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🚀 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinS4160&show_icons=true&theme=one-dark-pro&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinS4160&layout=compact&theme=one-dark-pro&hide_border=true" alt="Most Used Languages" />
+</p>
 
-<!--
-**CocoCrunch123/CoCoCrunch123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinS4160&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinS4160&theme=one-dark-pro&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
